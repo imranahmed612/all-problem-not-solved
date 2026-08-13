@@ -1,0 +1,33 @@
+
+        h1{
+            color: rgb(12, 15, 15);
+        }
+        img{
+            height: 200px;
+            width: 400px;
+        }
+        /* .heading1{
+            color: brown;
+        } */
+         #problem1{
+            color: blue;
+         }
+         #pro3{
+            color: blueviolet;
+         }
+         .bold-text{
+            height: 200px;
+            width: 200px;
+            text-align: center;
+            font-style: italic;
+            text-decoration: underline;
+            font-size: 60px;
+         }
+         article{
+            background-color: aqua;
+            font-family: Arial, Helvetica, sans-serif;
+            border: 10px solid red;
+            margin: 20px 30px 20px 30px;
+            padding: 10px 20px;
+            text-align: justify;
+         }
